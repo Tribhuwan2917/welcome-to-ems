@@ -25,7 +25,7 @@ console.log(sessionStorage.getItem("registrationEmail"))
               Already Register? Sign In Now
               
           </span>
-          <span onClick={()=>navigate("/Signup")} style={{marginRight:'-80px', color:'white', cursor: "pointer", fontSize:'18px' }}>Are you new to Employee Management System? Signup Now</span>
+          <span onClick={()=>navigate("/Signup")} style={{marginRight:'-80px', color:'white', cursor: "pointer", fontSize:'18px' }}>Are you new to Employee Management System? ppppppppppppppppppppppppppppppSignup Now</span>
         <img
           style={{marginLeft:'50px', height:'350px',width:'900px', borderRadius:'10px',opacity:'0.4'}}
           src={Slider_Image1_URL}
