@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://tribhuwan2917.github.io/welcome-to-ems/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
