@@ -1,5 +1,5 @@
 // export const employeeManagement_base_URL="http://localhost:8081/employeeManagement/"
-export const employeeManagement_base_URL="http://52.55.37.191:8080/employeeManagement/"
+export const employeeManagement_base_URL="https://52.55.37.191:8080/employeeManagement/"
 // //developement phase
 // for local production phase
 // export const employeeManagement_base_URL="http://localhost:8080/employee_management_backend/employeeManagement/"
