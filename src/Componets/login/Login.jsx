@@ -63,7 +63,7 @@ function Login() {
   })
   return (
     <div>
-      <Container style={{ marginLeft: '253px', display: 'flex', marginBottom: '5px' }}>
+      <Container style={{ marginLeft: '283px', display: 'flex', marginBottom: '5px' }}>
         <Row >
           <Col>
             <Card style={{ zIndex: '-1', position: 'inherit', marginTop: '120px', width: '38rem', textAlign: 'center', height: '400px' }}>
@@ -88,7 +88,7 @@ function Login() {
                         value={values.registraionPassword} onBlur={handleBlur} onChange={handleChange} name='registraionPassword'></input>
                         <span style={{position:'absolute',
                       marginTop:'5px',
-                        right:'475px',
+                        right:'435px',
                         zIndex:'10'}}>
                       {icon}
                       </span>
