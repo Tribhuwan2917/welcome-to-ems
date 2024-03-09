@@ -63,7 +63,7 @@ function Login() {
   })
   return (
     <div>
-      <Container style={{ mmarginLeft: '255px', display: 'flex',  marginBottom:'5px'}}>
+      <Container style={{ marginLeft: '255px', display: 'flex',  marginBottom:'5px'}}>
         <Row >
           <Col>
             <Card style={{ zIndex: '-1', position: 'inherit', marginTop: '120px', width: '33rem', textAlign: 'center', height: '380px' }}>
