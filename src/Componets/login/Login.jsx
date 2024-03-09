@@ -88,7 +88,7 @@ function Login() {
                         value={values.registraionPassword} onBlur={handleBlur} onChange={handleChange} name='registraionPassword'></input>
                         <span style={{position:'absolute',
                       marginTop:'5px',
-                        right:'505px',
+                        right:'490px',
                         zIndex:'10'}}>
                       {icon}
                       </span>
